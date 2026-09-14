@@ -4,14 +4,9 @@ A closer look at the projects featured on my [GitHub profile](https://github.com
 
 ## VinylAgent
 
-**Focus:** Application development, content workflows, and integration.
+A personal application in development for organizing vinyl-related content and connecting application services to workflow automation.
 
-VinylAgent brings albums, content ideas, planned posts, and performance information into one application. The interface supports a Hebrew content workflow, while the backend provides structured storage and integration points.
-
-- **Technologies:** Node.js, Express, JavaScript, SQLite, Docker Compose, n8n, and API integrations.
-- **Work covered:** Application structure, content workflows, deployment to Ubuntu, and an authenticated API connection for a scheduled report.
-- **Status:** Personal application in development. Deployment and workflow integration are documented; individual external integrations have their own testing and release steps.
-- **Learning focus:** API boundaries, persistent data, service health, and controlled changes.
+[Read the VinylAgent project summary](project-notes/vinylagent.md) for the deployment work, technologies, current status, and limitations.
 
 ## Infrastructure Automation
 
@@ -28,16 +23,9 @@ The source repository currently requires access: [infra-automation](https://gith
 
 ## Home Server
 
-**Focus:** Linux infrastructure and service operations.
+A personal Proxmox and Linux home lab with running services and recorded work on deployment, monitoring, backups, and recovery.
 
-A personal Proxmox environment provides the infrastructure for applications, automation, and course work. It includes Ubuntu virtual machines, an LXC monitoring environment, and services deployed with Docker Compose.
-
-- **Technologies:** Proxmox VE, Ubuntu, LXC, Docker Compose, PostgreSQL, Tailscale, SSH, and systemd.
-- **Work covered:** Virtualization, remote access, service deployment, backups, monitoring, and operational documentation.
-- **Status:** Personal lab with running services and recorded verification work.
-- **Learning focus:** Understanding dependencies, maintaining services, and planning recovery.
-
-The lab uses a single physical host. Recovery exercises and service checks apply to the specific scenarios documented in the project.
+[Read the Home Server project summary](project-notes/home-server.md) for the infrastructure, completed checks, current status, and limitations.
 
 ## Server Monitor
 
