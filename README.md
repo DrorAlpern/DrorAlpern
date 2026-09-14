@@ -16,9 +16,9 @@ I'm currently studying DevOps and applying what I learn in a Linux lab.
 
 | Project | What it does | Stage |
 | --- | --- | --- |
-| **[VinylAgent](https://github.com/DrorAlpern/DrorAlpern/blob/main/PROJECTS.md#vinylagent)** | Organizes vinyl-related content, drafts, and performance data; connects application services to workflow automation. | Personal app in development |
+| **[VinylAgent](https://github.com/DrorAlpern/DrorAlpern/blob/main/project-notes/vinylagent.md)** | Organizes vinyl-related content, drafts, and performance data; connects application services to workflow automation. | Personal app in development |
 | **[Infrastructure Automation](https://github.com/DrorAlpern/DrorAlpern/blob/main/PROJECTS.md#infrastructure-automation)** | Validates machine definitions in Python, simulates provisioning, and configures a real Nginx service through Bash. | Course project · Stage 1 verified |
-| **[Home Server](https://github.com/DrorAlpern/DrorAlpern/blob/main/PROJECTS.md#home-server)** | A Proxmox lab for Linux, containers, application deployment, monitoring, and backups. | Personal lab |
+| **[Home Server](https://github.com/DrorAlpern/DrorAlpern/blob/main/project-notes/home-server.md)** | A Proxmox lab for Linux, containers, application deployment, monitoring, and backups. | Personal lab |
 
 ## More projects
 
