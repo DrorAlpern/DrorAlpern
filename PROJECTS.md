@@ -1,6 +1,6 @@
 # Project notes
 
-A closer look at the projects featured on my [GitHub profile](https://github.com/DrorAlpern). These summaries cover personal projects and course work. Statuses reflect the available project records as of 15 September 2026.
+A closer look at the projects featured on my [GitHub profile](https://github.com/DrorAlpern). These summaries cover personal projects and course work. Statuses reflect the available project records as of 18 September 2026.
 
 ## VinylAgent
 
@@ -20,6 +20,12 @@ Stage 1 of my rolling DevOps course project collects multiple machine definition
 - **Learning focus:** Clear failure handling, repeatable runs, and the boundary between a simulation and real system changes.
 
 The source repository currently requires access: [infra-automation](https://github.com/DrorAlpern/infra-automation). AWS and Terraform are planned for later course stages.
+
+## Docker and Kubernetes Exam
+
+A Python and Flask course starter application packaged with Docker Compose and deployed to a local kind Kubernetes cluster using both manifests and a Helm chart. Local checks confirmed that Bitcoin and XRP prices were saved to MySQL.
+
+[Read the Docker and Kubernetes Exam project summary](project-notes/docker-kubernetes-exam.md) for the source code, verification work, technologies, and scope. The lab has not been deployed to AWS or a separate course cluster, and it has not yet been submitted for grading.
 
 ## Home Server
 
